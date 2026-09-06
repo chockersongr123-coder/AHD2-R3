@@ -149,7 +149,3 @@ footer a{
     color: rgb(52, 2, 139);
     font-size: 25px;
 }
-footer a:hover{
-    background-color: antiquewhite;
-    text-decoration: underline;
-}
